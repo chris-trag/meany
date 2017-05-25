@@ -1,0 +1,17 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Building a CRUD / Express / MongoDB app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Traganos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
